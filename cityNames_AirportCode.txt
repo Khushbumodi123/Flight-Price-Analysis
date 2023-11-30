@@ -1,0 +1,7 @@
+tokyo,HND
+jakarta,CGK
+delhi,DEL
+guangzhou,CAN
+mumbai,BOM
+manila,MNL
+shanghai,PVG
